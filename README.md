@@ -1,4 +1,4 @@
-# Calculator written in Vue [Demo](vue-calculator.surge.sh)
+# Calculator written in Vue [Demo](http://vue-calculator.surge.sh/)
 
 > Dirty clone of macos calculator
 
